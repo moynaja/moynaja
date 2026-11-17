@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Wirun%20Pingwang&fontSize=48&fontColor=00ffd5&animation=fadeIn&fontAlignY=38&desc=IT%20Project%20Manager%20%7C%20ERP%20%26%20E-Commerce%20Systems&descAlignY=58&descSize=18" alt="header" />
+  <img src="assets/header.svg" width="100%" alt="Wirun Pingwang — IT Project Manager" />
 </p>
 
 <p align="center">
