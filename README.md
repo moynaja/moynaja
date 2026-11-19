@@ -23,7 +23,7 @@
 ```yaml
 name:      Wirun Pingwang  # วิรุฬห์ ปิงวัง
 nickname:  Karn            # กานต์
-role:      Senior IT Project Specialist — Project Manager
+role:      Assistant Vice President, Project Department, Dohome
 company:   Dohome PCL (HQ)  # since Dec 2021
 based_in:  Pathum Thani, Thailand
 focus:     [ERP, E-Commerce, POS, Sales Systems, Team Leadership]
