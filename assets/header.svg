@@ -41,7 +41,7 @@
   <g class="mono" font-size="16">
     <text class="line l1" x="36" y="84"><tspan fill="#27c93f">➜</tspan><tspan fill="#38bdf8"> ~</tspan><tspan fill="#e2e8f0"> whoami</tspan></text>
     <text class="line l2 sans" x="36" y="136" font-size="44" font-weight="700" fill="url(#accent)">Wirun Pingwang</text>
-    <text class="line l3" x="38" y="172" fill="#cbd5e1">Assistant Vice President, Project Department, Dohome <tspan fill="#00ffd5">·</tspan> ERP <tspan fill="#00ffd5">·</tspan> E-Commerce <tspan fill="#00ffd5">·</tspan> POS</text>
+    <text class="line l3" x="38" y="172" fill="#cbd5e1">Assistant Vice President, Project Department, Dohome <tspan fill="#00ffd5">·</tspan> ERP <tspan fill="#00ffd5">·</tspan> E-Commerce <tspan fill="#00ffd5">·</tspan> POS<tspan fill="#00ffd5">·</tspan> CRM <tspan fill="#00ffd5">·</tspan></text>
     <text class="line l4" x="36" y="216"><tspan fill="#27c93f">➜</tspan><tspan fill="#38bdf8"> ~</tspan><tspan fill="#7f9cab"> echo $MOTTO  </tspan><tspan fill="#facc15">"No pain, no gain"</tspan><tspan class="cursor" fill="#00ffd5"> █</tspan></text>
   </g>
 
