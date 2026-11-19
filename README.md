@@ -41,7 +41,7 @@ motto:     "The fighter's building has no elevator — only stairs. 5555+"
 ```text
 2012 ──► 2015 ──► 2020 ──► 2021 ──► NOW
  │        │        │        │
- │        │        │        └─ 🏢 Dohome PCL ........... Project Manager
+ │        │        │        └─ 🏢 Dohome PCL ........... Assistant Vice President, Project Department
  │        │        └────────── 🧩 Premier Professional ... Team Lead – Solutions Dev
  │        └─────────────────── ⚙️  Hitachi Sales (TH) .... Programmer
  └──────────────────────────── 💻 Almall (Thailand) ...... Programmer Analyst
